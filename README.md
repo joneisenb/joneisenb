@@ -7,7 +7,7 @@ Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Co
 
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joneisenb&theme=blue-green">
+  <img src="https://github-readme-stats-six-vert-46.vercel.app/api?username=joneisenb&count_private=true&theme=blue-green">
 </div>
 <br>
 
