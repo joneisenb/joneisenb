@@ -42,5 +42,5 @@ Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Co
 <br>
 <h2 align="center">Let's chat!</h2>
 <p align="center">
-  <a href="(https://www.linkedin.com/in/jonathan-eisenhour/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jonathan-eisenhour/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
