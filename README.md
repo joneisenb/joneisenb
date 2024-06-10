@@ -13,7 +13,7 @@ Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Co
 
 - 🔭 I’m currently working on expanding my knowledge of 3D Web Development.
 - 🌱 I’m currently learning Three.js, and interaction in 3D space.
-- 💬 Ask me about how to use life experience to build strong interpesonal skills.
+- 💬 Ask me about how to improve interpersonal skills.
 - ⚡ Fun fact: I have played competitive League of Legends where I reached top 3000!
 
 
