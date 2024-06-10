@@ -34,10 +34,11 @@ Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Co
   
 <br>
 <h2 align="center">Check out some of my recent projects:</h2>
-
-- 3D portfolio made using three.js, html, css: [Repo](https://github.com/joneisenb/3d-portfolio) | [Live](https://joneisenb.github.io/3d-portfolio/)
-- Standalone audio synthesis application made using Python: [Repo](https://github.com/joneisenb/Syntheseisen)
-
+- 3D portfolio made using three.js, html, css: 
+<a href="https://github.com/joneisenb/3d-portfolio" target="_blank">Repo</a> | <a href="https://joneisenb.github.io/3d-portfolio/" target="_blank">Live</a>
+<br></br>
+- Standalone audio synthesis application made using Python: 
+<a href="https://github.com/joneisenb/Syntheseisen" target="_blank">Repo</a>
 
 <br>
 <h2 align="center">Let's chat!</h2>
