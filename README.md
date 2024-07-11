@@ -3,7 +3,7 @@
 <br>
 <h2 align="center">Introduction</h2>
 
-Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Computer Science. I'm looking to get into the software development industry with a focus in front-end. I love the outdoors, the gym, and music on days I am not coding.
+Hey! My name is Jon Eisenhour and I have a Bachelors in Computer Science. I enjoy making the user experience as intuitive as possible. I love the outdoors, the gym, and making music on days I am not coding.
 
 <br>
 <div align="center">
@@ -11,9 +11,9 @@ Hey! My name is Jon Eisenhour and I am an eternal student with a Bachelors in Co
 </div>
 <br>
 
-- 🔭 I’m currently working on expanding my knowledge of 3D Web Development.
-- 🌱 I’m currently learning Three.js, and interaction in 3D space.
-- 💬 Ask me about how to improve interpersonal skills.
+- 🔭 I’m currently working on an isometric roguelike game revolving around frogs.
+- 🌱 I’m currently learning the Godot Game Engine, specifically 2D Isometric Games.
+- 💬 Talk to me about you favorite music genre.
 - ⚡ Fun fact: I have played competitive League of Legends where I reached top 3000!
 
 
