@@ -11,8 +11,8 @@ Hey! My name is Jon Eisenhour and I have a Bachelors in Computer Science. I enjo
 </div>
 <br>
 
-- 🔭 I’m currently working on an isometric roguelike game revolving around frogs.
-- 🌱 I’m currently learning the Godot Game Engine, specifically 2D Isometric Games.
+- 🔭 I’m currently working on a quake like zombie shooter.
+- 🌱 I’m currently learning the Godot Game Engine.
 - 💬 Talk to me about you favorite music genre.
 - ⚡ Fun fact: I have played competitive League of Legends where I reached top 3000!
 
